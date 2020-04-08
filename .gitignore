@@ -1,0 +1,17 @@
+*/*/*.csproj
+*/*/*.sln
+*/*/.idea/
+*/*/Library/
+*/*/Temp/
+*/*/obj/
+*/*/builds/
+*/*/ServerData/
+*/*/Logs/
+*/*/Assets/Plugins/
+*/*/Assets/Plugins.meta
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+Basic/test/.vs/test/v14/.suo
+Basic/test/.vs/test/v16/.suo
