@@ -15,3 +15,5 @@
 *.ide-wal
 Basic/test/.vs/test/v14/.suo
 Basic/test/.vs/test/v16/.suo
+**/.DS_Store
+.DS_Store
